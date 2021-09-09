@@ -1,6 +1,11 @@
 # unitary-matrix-text-classification
 
 
+## Authors
+*Renan Cabrera (Algorithms)
+*Stanley Salvatierra (Algorithms and implementation)
+
+
 ## Baseline
 
 We take this example from PyTorch `https://pytorch.org/tutorials/beginner/text_sentiment_ngrams_tutorial.html` which is used as baseline for test the new proposed procudere for text classification.
