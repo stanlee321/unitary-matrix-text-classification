@@ -2,7 +2,7 @@
 
 
 ## Authors
-* Renan Cabrera (Algorithms)
+* Renan Cabrera PhD (Algorithms)
 * Stanley Salvatierra (Algorithms and implementation)
 
 
