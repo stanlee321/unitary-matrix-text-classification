@@ -2,8 +2,8 @@
 
 
 ## Authors
-*Renan Cabrera (Algorithms)
-*Stanley Salvatierra (Algorithms and implementation)
+* Renan Cabrera (Algorithms)
+* Stanley Salvatierra (Algorithms and implementation)
 
 
 ## Baseline
