@@ -5,7 +5,13 @@
 * Renan Cabrera PhD (Algorithms)
 * Stanley Salvatierra (Algorithms and implementation)
 
+## Setup
 
+
+```
+conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch
+conda install -c pytorch torchtext
+```
 ## Baseline
 
 We take this example from PyTorch `https://pytorch.org/tutorials/beginner/text_sentiment_ngrams_tutorial.html` which is used as baseline for test the new proposed procudere for text classification.
